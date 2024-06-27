@@ -1,0 +1,40 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "bookId": "BO1000",
+        "name": "Java",
+        "typeId": 1,
+        "entry_date": "2024-06-26",
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "bookId": "BO1001",
+        "name": "Python",
+        "typeId": 2,
+        "entry_date": "2024-06-27",
+        "quantity": 2
+      },
+      {
+        "id": 3,
+        "bookId": "BO1002",
+        "name": "C++",
+        "typeId": 1,
+        "entry_date": "2024-06-28",
+        "quantity": 3
+      }
+    ],
+    "types": [
+      {
+        "id": 1,
+        "name": "Development",
+        "desc": "Software"
+      },
+      {
+        "id": 2,
+        "name": "Testing",
+        "desc": "Unit Testing"
+      }
+    ]
+  }
